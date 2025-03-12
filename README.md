@@ -14,7 +14,7 @@ A simple and efficient **To-Do List App** built using **HTML, CSS, and JavaScrip
 - **JavaScript** for functionality.
 
 ## 📸 Preview
-![To-Do App Preview](./scr) *(Add an image of your project here)*
+![To-Do App Preview](./Screenshot%202025-03-12%20115922.png)) 
 
 ## 🔧 Setup & Usage
 1. **Clone the repository**:
