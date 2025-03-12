@@ -19,4 +19,4 @@ A simple and efficient **To-Do List App** built using **HTML, CSS, and JavaScrip
 ## 🔧 Setup & Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   [git clone https://github.com/yourusername/todo-app.git](https://github.com/Harish-Kuppusamy/To-Do-App.git)
